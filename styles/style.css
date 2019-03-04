@@ -1,0 +1,55 @@
+
+
+body {
+  margin-top: 40px;
+  background-color:  #FFFFF4;
+  color: #444;
+}
+
+
+h1 {
+    font-family: 'Alegreya Sans', sans-serif;
+    color: #7BAC00;
+    
+   
+}
+
+
+h2, h3, h4, h5, p {
+ 
+  font-family: 'Assistant', sans-serif;
+  color: #fff;
+ }
+
+hr {
+     border: 1px solid #7BAC00;
+    
+}
+
+a:link {
+ color: #fff;
+ text-decoration: none;
+ font-family: 'Assistant', sans-serif;
+}
+
+a:visited {
+    color: #7BAC00;
+}
+
+img {
+  padding: 10px;
+  max-width: 100%;
+}
+
+
+/* We need to set the margin used on flex items to 0 as we have gaps in grid.  */
+
+
+
+ul {
+  list-style-type: none;  
+}
+Resources
+/*
+font-family: 'Alegreya Sans', sans-serif;
+font-family: 'Assistant', sans-serif;*/
